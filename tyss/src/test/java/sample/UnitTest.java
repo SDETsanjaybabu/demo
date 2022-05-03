@@ -12,6 +12,7 @@ public class UnitTest {
 	public void hello()
 	{
 		System.out.println("hello guys");
+		System.out.println("bye");
 	}
 
 }
